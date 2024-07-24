@@ -1,7 +1,7 @@
 ---
 title: Covariance Conundrum
 description: Unravel the mysteries of type variance in TypeScript!
-level: 1
+level: 22
 correctAnswer: 3
 difficulty: "Expert"
 ---
